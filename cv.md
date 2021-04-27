@@ -1,18 +1,18 @@
-## Alexander Minhinovich
+## Aliaxander Minhinovich
 
 #### Contact Info:
-* Email: _fail@gmail.com_
-* Phone number: _+37599797624_
-* Telegram 
+* Email: Midas1989@@gmail.com_
+* Phone number: _+3752916806**_
+* LinkedIn: https://www.linkedin.com/in/aliaksandr-minhinovich-939514201/ 
 
 #### Skills:
-* Java core
+* Java
 * Kotlin
 * Git
+* MySQL
 
 #### Education:
-* JavaRush courses
-* JetBrains Academy (Kotlin Developer)
+* ItAcademy courses
 
 #### Languages
 * English A2
